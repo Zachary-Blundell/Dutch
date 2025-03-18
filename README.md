@@ -1,6 +1,7 @@
 # Dutch
 
 ![Dutch](https://upload.wikimedia.org/wikipedia/commons/c/c6/King_of_diamonds2.svg)
+
 Dutch, also known as Marmot, Tamalou, Cactus or Pablo (and a thousand other names), is a friendly, strategic card game, perfect for games with friends or family. The aim of the game is to minimize your score by skilfully replacing the cards in your hand throughout the rounds. Each player starts with four face-down cards, two of which can be memorized at the beginning. This game combines memory, luck and strategy, offering a fun and dynamic experience for all participants.
 
 ### **Dutch - Card Game Rules (English Translation)**
